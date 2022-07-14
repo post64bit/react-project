@@ -7,7 +7,7 @@ function Content(props) {
     };
     return (
         <main>
-            <p>Hello {randomName()}</p>
+            <p>Hello {randomName()} </p>
         </main>
     );
 }
